@@ -34,4 +34,3 @@ For example:
 
 
 
-`OxValueAI <https://www.oxvalue.ai/>`_ 
