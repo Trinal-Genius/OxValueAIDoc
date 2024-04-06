@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, OxValueAI
+# This file is distributed under the same license as the OxValueAI package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OxValueAI 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-06 23:44+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../source/index.rst:2 a2f7228a622c4c03b8f3b6995a59e09c
+msgid "Welcome to OxValueAI documentation!"
+msgstr ""
+
+#: ../../source/index.rst:11 a22add958a2743139d1e093969f5df5f
+msgid "This Documentation includes:"
+msgstr ""
+
+#: ../../source/index.rst:13 05c5971e51074120ad2886138154f296
+msgid "Back Office (Admin) User Manual / 管理后台使用手册"
+msgstr "管理后台使用手册"
+
+#: ../../source/index.rst:15 5ea8d915049b4a60a3eb4302e2844444
+msgid "Questionnaire Design Tutorials / 问卷制作教程"
+msgstr "问卷制作教程"
+
+#: ../../source/index.rst:17 cbbe0dd7034d45d9b122e0f4a55330c3
+msgid "OVA Chatbot User Manual / OVA估值平台用户手册"
+msgstr "OVA估值平台用户手册"
+
+#: ../../source/index.rst:22 ad07fd49967a4fabba36f5533c79baf6
+msgid "This project is under active development."
+msgstr "该项目正在持续开发中"
+
+#: ../../source/index.rst:25 e9c5f9b76784475c8d7009ea20aa916f
+msgid "Contents"
+msgstr "目录"
+

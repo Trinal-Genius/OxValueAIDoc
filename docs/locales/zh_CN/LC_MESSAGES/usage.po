@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, OxValueAI
+# This file is distributed under the same license as the OxValueAI package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OxValueAI 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-06 23:44+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../source/usage.rst:2 7b65d8af8bde49ee882bce7d221e29f3
+msgid "Usage"
+msgstr ""
+
+#: ../../source/usage.rst:7 473e9b6f3e3e4f1d8c05edd9e9f00820
+msgid "Installation"
+msgstr ""
+
+#: ../../source/usage.rst:9 f41b0448d8664b3883f0e5fed8e701e6
+msgid "To use Lumache, first install it using pip:"
+msgstr ""
+
+#: ../../source/usage.rst:16 da7e1e62fb724ec5913deb4b19583d67
+msgid "Creating recipes"
+msgstr ""
+
+#: ../../source/usage.rst:18 cfced195a2cc4c46bfd71034a94b8334
+msgid ""
+"To retrieve a list of random ingredients, you can use the "
+"``lumache.get_random_ingredients()`` function:"
+msgstr ""
+
+#: ../../source/usage.rst:23 f75cf9ab50b64456a23bde8e68f5e321
+msgid ""
+"The ``kind`` parameter should be either ``\"meat\"``, ``\"fish\"``, or "
+"``\"veggies\"``. Otherwise, :py:func:`lumache.get_random_ingredients` "
+"will raise an exception."
+msgstr ""
+
+#: ../../source/usage.rst:29 6026da23ffdf418db653a68b1b4be04e
+msgid "For example:"
+msgstr ""
+
+#: ../../source/usage.rst:37 3db6dd9976314635a77ae85463359625
+msgid "`OxValueAI <https://www.oxvalue.ai/>`_"
+msgstr ""
+
