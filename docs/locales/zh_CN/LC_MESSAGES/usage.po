@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OxValueAI 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-06 23:44+0100\n"
+"POT-Creation-Date: 2024-04-07 00:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -50,9 +50,5 @@ msgstr ""
 
 #: ../../source/usage.rst:29 6026da23ffdf418db653a68b1b4be04e
 msgid "For example:"
-msgstr ""
-
-#: ../../source/usage.rst:37 3db6dd9976314635a77ae85463359625
-msgid "`OxValueAI <https://www.oxvalue.ai/>`_"
 msgstr ""
 
