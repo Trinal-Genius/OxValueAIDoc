@@ -18,5 +18,7 @@ Contents
 
 .. toctree::
 
+   back_office
+   questionnaire_design
    usage
    api
